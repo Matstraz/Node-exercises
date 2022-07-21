@@ -1,0 +1,22 @@
+{
+  "name": "node-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matstraz/Node-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matstraz/Node-exercises/issues"
+  },
+  "homepage": "https://github.com/Matstraz/Node-exercises#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
+}
